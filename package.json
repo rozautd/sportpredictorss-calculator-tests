@@ -1,0 +1,10 @@
+{
+  "main": "test/calculatorTest.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "mocha": "^10.2.0",
+    "pactum": "^3.3.2"
+  }
+}
